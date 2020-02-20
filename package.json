@@ -20,8 +20,8 @@
   "files": [
     "dist"
   ],
-  "publishConfig":{
-    "registry":"https://registry.npmjs.org"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   },
   "license": "MIT",
   "devDependencies": {
