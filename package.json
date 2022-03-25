@@ -71,6 +71,6 @@
     "apollo-server": ">= 2.14.3"
   },
   "dependencies": {
-    "apollo-server-plugin-base": "^0.9.0"
+    "apollo-server-plugin-base": ">= 0.9.0"
   }
 }
